@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 2b38704e52fda8f4182d814496624352
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5013625501591865943
+    second: JungleBackground2_0
+  - first:
+      213: 2751441578203512057
+    second: JungleBackground2_1
+  - first:
+      213: -5448312873967370332
+    second: JungleBackground2_2
+  - first:
+      213: 9138413688867771831
+    second: JungleBackground2_3
+  - first:
+      213: -2606385733395308857
+    second: JungleBackground2_4
+  - first:
+      213: -5989907405052320913
+    second: JungleBackground2_5
+  - first:
+      213: 5431806367751795523
+    second: JungleBackground2_6
+  - first:
+      213: 8057906646006912946
+    second: JungleBackground2_7
+  - first:
+      213: 6792221875874252098
+    second: JungleBackground2_8
+  - first:
+      213: -5746297659405467643
+    second: JungleBackground2_9
+  - first:
+      213: 1990640509187121275
+    second: JungleBackground2_10
+  - first:
+      213: -7723813416314794816
+    second: JungleBackground2_11
+  - first:
+      213: -8091271317184646456
+    second: JungleBackground2_12
+  - first:
+      213: 1637803461257842953
+    second: JungleBackground2_13
+  - first:
+      213: -7851457871586194213
+    second: JungleBackground2_14
+  - first:
+      213: 4867152468722353810
+    second: JungleBackground2_15
+  - first:
+      213: -8546767836481971284
+    second: JungleBackground2_16
+  - first:
+      213: 3815483622759237094
+    second: JungleBackground2_17
+  - first:
+      213: -3935132101315480698
+    second: JungleBackground2_18
+  - first:
+      213: 3397711300946504452
+    second: JungleBackground2_19
+  - first:
+      213: 8448831676343221271
+    second: JungleBackground2_20
+  - first:
+      213: -7952426280569534056
+    second: JungleBackground2_21
+  - first:
+      213: 5058095292970283273
+    second: JungleBackground2_22
+  - first:
+      213: -5192521076440163652
+    second: JungleBackground2_23
+  - first:
+      213: 7512807129276020144
+    second: JungleBackground2_24
+  - first:
+      213: -7573497817540487021
+    second: JungleBackground2_25
+  - first:
+      213: -3023322213159034920
+    second: JungleBackground2_26
+  - first:
+      213: -6814113512310046289
+    second: JungleBackground2_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JungleBackground2_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 58
+        width: 243
+        height: 1912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a093394d9f39540800000000000000
+      internalID: 5013625501591865943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 34
+        width: 80
+        height: 1878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc7f01a9851f2620800000000000000
+      internalID: 2751441578203512057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 34
+        width: 162
+        height: 1859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afbcf9be44b364b0800000000000000
+      internalID: -5448312873967370332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1777
+        width: 1361
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5d78725da22de70800000000000000
+      internalID: 9138413688867771831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_4
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1684
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce93551cf144dbd0800000000000000
+      internalID: -2606385733395308857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1508
+        width: 1267
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63ef5473f29fdca0800000000000000
+      internalID: -5989907405052320913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_6
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1509
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343fc8ecc17a16b40800000000000000
+      internalID: 5431806367751795523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_7
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1509
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75084e66f63df60800000000000000
+      internalID: 8057906646006912946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_8
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1024
+        width: 278
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454f133fc1d24e50800000000000000
+      internalID: 6792221875874252098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_9
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1091
+        width: 265
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008a7559bc0140b0800000000000000
+      internalID: -5746297659405467643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_10
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1073
+        width: 326
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e9990ffc20ab10800000000000000
+      internalID: 1990640509187121275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_11
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1060
+        width: 152
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc0921de908fc490800000000000000
+      internalID: -7723813416314794816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_12
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1037
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f6ed3b9706bf80800000000000000
+      internalID: -8091271317184646456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_13
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1011
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901dd201295aab610800000000000000
+      internalID: 1637803461257842953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_14
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 779
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc09232aa40a0390800000000000000
+      internalID: -7851457871586194213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_15
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 775
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2968cdd02699b8340800000000000000
+      internalID: 4867152468722353810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_16
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 768
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab12c87fe7c36980800000000000000
+      internalID: -8546767836481971284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_17
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 82
+        width: 409
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e582ecb32253f430800000000000000
+      internalID: 3815483622759237094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_18
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 131
+        width: 474
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683badcf33a9369c0800000000000000
+      internalID: -3935132101315480698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_19
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 732
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b2f362d68172f20800000000000000
+      internalID: 3397711300946504452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_20
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 761
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c718355a7404570800000000000000
+      internalID: 8448831676343221271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_21
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 709
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8990c2c7e6e43a190800000000000000
+      internalID: -7952426280569534056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_22
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 679
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901b199bed6f13640800000000000000
+      internalID: 5058095292970283273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_23
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 652
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba1e06979570f7b0800000000000000
+      internalID: -5192521076440163652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_24
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 578
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f48e874ad24860800000000000000
+      internalID: 7512807129276020144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_25
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 590
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989d4e6cd785e690800000000000000
+      internalID: -7573497817540487021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_26
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 401
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df9b1327700b06d0800000000000000
+      internalID: -3023322213159034920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleBackground2_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 83
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1029ffcd76f61a0800000000000000
+      internalID: -6814113512310046289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637326904597904263
+  assetBundleName: 
+  assetBundleVariant: 

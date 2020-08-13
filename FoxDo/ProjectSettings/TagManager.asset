@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - Powerup
+  - Monkey
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Veryveryfarbackground
+    uniqueID: 3555125973
+    locked: 0
+  - name: FarBackground
+    uniqueID: 3410024099
+    locked: 0
+  - name: Background
+    uniqueID: 3021328839
+    locked: 0
+  - name: Treefar
+    uniqueID: 2056590069
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TreeNear
+    uniqueID: 1441447275
+    locked: 0
+  - name: ground
+    uniqueID: 3001980185
+    locked: 0
+  - name: Player
+    uniqueID: 23680501
+    locked: 0
+  - name: Foreground
+    uniqueID: 1981597339
+    locked: 0
+  - name: close
+    uniqueID: 185908217
+    locked: 0

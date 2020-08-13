@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: e4e773f5bc29a0a4080fff2c29701451
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6083335506247185416
+    second: badies_0
+  - first:
+      213: -1796654214858130325
+    second: badies_1
+  - first:
+      213: 782213622624383880
+    second: Explosion2
+  - first:
+      213: -2404027749096647016
+    second: badies_3
+  - first:
+      213: -1601003331395793040
+    second: badies_4
+  - first:
+      213: -7175599779437856508
+    second: Explosion1
+  - first:
+      213: 1285659514322589674
+    second: badies_6
+  - first:
+      213: 3791768463406325776
+    second: badies_7
+  - first:
+      213: -1856297719868551084
+    second: badies_8
+  - first:
+      213: -3391878021602571765
+    second: badies_9
+  - first:
+      213: -5562456378551842169
+    second: badies_10
+  - first:
+      213: -3644293742705261741
+    second: badies_11
+  - first:
+      213: 7644084458738119602
+    second: badies_12
+  - first:
+      213: -6690456062555216660
+    second: Explosion3
+  - first:
+      213: 2567245462602476688
+    second: badies_14
+  - first:
+      213: 5345707333060026049
+    second: badies_15
+  - first:
+      213: -2919990230502164450
+    second: badies_16
+  - first:
+      213: 6687077070370948787
+    second: badies_17
+  - first:
+      213: 6997340811570144364
+    second: ParotRW2
+  - first:
+      213: -301538759620081448
+    second: badies_19
+  - first:
+      213: -8529103274510772180
+    second: badies_20
+  - first:
+      213: -7647828246486483955
+    second: JBhead1
+  - first:
+      213: -2289204801830607292
+    second: JBHead2
+  - first:
+      213: 5810705259605730019
+    second: JBBod
+  - first:
+      213: 1626657271635893345
+    second: badies_24
+  - first:
+      213: 6037383855350126008
+    second: JBLA
+  - first:
+      213: 6819108900943505603
+    second: JBRA
+  - first:
+      213: 6024223261029615106
+    second: badies_27
+  - first:
+      213: -801288584787086302
+    second: badies_28
+  - first:
+      213: 9180436855288016317
+    second: badies_29
+  - first:
+      213: -2442407176813020076
+    second: badies_30
+  - first:
+      213: 3966326905628319675
+    second: badies_31
+  - first:
+      213: 8679592549762754190
+    second: badies_32
+  - first:
+      213: 5400542677710340413
+    second: JBLL
+  - first:
+      213: 399644901688919226
+    second: JBRL
+  - first:
+      213: -4773313025420084088
+    second: Parotbod
+  - first:
+      213: 3146890550486416371
+    second: parotLW1
+  - first:
+      213: 7130052163372586298
+    second: ParotLW2
+  - first:
+      213: 3509762689790298084
+    second: ParotRW1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badies_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1931
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb8d948696a39ba0800000000000000
+      internalID: -6083335506247185416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1938
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3c2bb2800117e0800000000000000
+      internalID: -1796654214858130325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion2
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1503
+        width: 699
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837ffa352bfada00800000000000000
+      internalID: 782213622624383880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1938
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89699e0df7d23aed0800000000000000
+      internalID: -2404027749096647016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1899
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fcfebd3f718c9e0800000000000000
+      internalID: -1601003331395793040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1666
+        width: 288
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093c30c4062b6c90800000000000000
+      internalID: -7175599779437856508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_6
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1890
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79c4d348497d110800000000000000
+      internalID: 1285659514322589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1841
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010ecdbe3511f9430800000000000000
+      internalID: 3791768463406325776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1832
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4501ed11f0b1d36e0800000000000000
+      internalID: -1856297719868551084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_9
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1854
+        width: 71
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a8ce809e0ade0d0800000000000000
+      internalID: -3391878021602571765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1720
+        width: 141
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78acfc5156f2ec2b0800000000000000
+      internalID: -5562456378551842169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_11
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1794
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353cfd8362edc6dc0800000000000000
+      internalID: -3644293742705261741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1746
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b37b2ca05e351a60800000000000000
+      internalID: 7644084458738119602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion3
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1570
+        width: 259
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a90e98a9b623a0800000000000000
+      internalID: -6690456062555216660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1730
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c67a97520b0a320800000000000000
+      internalID: 2567245462602476688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_15
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1715
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce5e342f74cf2a40800000000000000
+      internalID: 5345707333060026049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1678
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18be4b2b5c1a77d0800000000000000
+      internalID: -2919990230502164450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_17
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1622
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6ce157a254dcc50800000000000000
+      internalID: 6687077070370948787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParotRW2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 25
+        width: 490
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646bf5056c8b1160800000000000000
+      internalID: 6997340811570144364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_19
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1655
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d845d28818b0dbf0800000000000000
+      internalID: -301538759620081448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_20
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1604
+        width: 129
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281a2ec2c982a980800000000000000
+      internalID: -8529103274510772180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBhead1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 979
+        width: 366
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c79f0dab47dd590800000000000000
+      internalID: -7647828246486483955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBHead2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 986
+        width: 366
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a4c88c5c1b30e0800000000000000
+      internalID: -2289204801830607292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBBod
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 955
+        width: 269
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e22b4da5a5c3a050800000000000000
+      internalID: 5810705259605730019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_24
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1367
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cd92f8b2c039610800000000000000
+      internalID: 1626657271635893345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBLA
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 915
+        width: 134
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b592d601a819c350800000000000000
+      internalID: 6037383855350126008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBRA
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 918
+        width: 102
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8217d8a6752ae50800000000000000
+      internalID: 6819108900943505603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_27
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1352
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c05163275a9350800000000000000
+      internalID: 6024223261029615106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_28
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1314
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224b03d074041e4f0800000000000000
+      internalID: -801288584787086302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_29
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1278
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbda85a0ea6776f70800000000000000
+      internalID: 9180436855288016317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_30
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1297
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf135fc93da1ed0800000000000000
+      internalID: -2442407176813020076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_31
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1269
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfdc016e493b0730800000000000000
+      internalID: 3966326905628319675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: badies_32
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1105
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866cb3007b147870800000000000000
+      internalID: 8679592549762754190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBLL
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 519
+        width: 191
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31034bb3f492fa40800000000000000
+      internalID: 5400542677710340413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JBRL
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 538
+        width: 191
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4c671bbe2db8500800000000000000
+      internalID: 399644901688919226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parotbod
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 530
+        width: 1008
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c371ee719c1cdb0800000000000000
+      internalID: -4773313025420084088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parotLW1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 70
+        width: 614
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbb6c068400cab20800000000000000
+      internalID: 3146890550486416371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParotLW2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 221
+        width: 523
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3514db7aa803f260800000000000000
+      internalID: 7130052163372586298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParotRW1
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 185
+        width: 614
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ced2229e25b030800000000000000
+      internalID: 3509762689790298084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637329376645417070
+  assetBundleName: 
+  assetBundleVariant: 
